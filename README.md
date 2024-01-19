@@ -1,5 +1,5 @@
 - 👋 Hey, I'm Miguel!
-- 🚀 Aspiring Dev Student, passionate about problem solving.
+- 🚀 Dev Student, passionate about problem solving.
 - 👨‍💻 I enjoy Python, might learn JS.
 - 💡 On a mission to be a Software Engineer. 
 
