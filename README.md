@@ -1,7 +1,6 @@
 - 👋 Hey, I'm Miguel!
 - 🚀 Dev Student, passionate about problem solving.
-- 👨‍💻 I enjoy Python, might learn JS.
-- 💡 On a mission to be a Software Engineer. 
+- 💡 On a mission to be a Software Engineer.
 
 <!---
 miguellobato96/miguellobato96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
