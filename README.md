@@ -1,5 +1,5 @@
 - 👋 Hey, I'm Miguel!
-- 🚀 Dev Student, passionate about problem solving.
+- 🚀 Passionate about problem solving.
 - 💡 On a mission to be a Software Engineer.
 
 <!---
