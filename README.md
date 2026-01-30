@@ -1,8 +1,4 @@
-- 👋 Hey, I'm Miguel!
-- 🚀 Passionate about problem solving.
-- 💡 On a mission to be a Software Engineer.
-
-<!---
-miguellobato96/miguellobato96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey, I'm Miguel!
+🚀 Passionate about problem solving and creating software.
+💡 On a mission to be the best Software Engineer possible.
+📚 Learning Clean code practices.
